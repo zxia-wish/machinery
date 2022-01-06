@@ -1,4 +1,4 @@
-module github.com/zxia-wish/machinery
+module github.com/RichardKnop/machinery
 
 go 1.15
 
